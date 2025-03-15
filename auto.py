@@ -1,4 +1,4 @@
-import os
+import os 
 from moviepy.editor import VideoFileClip, TextClip, CompositeVideoClip
 
 # Set the path to the ImageMagick binary
